@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjV2cXp5aXh0NjF4YWl5enVzaTE1cGczbjEwMmc5cmpxbG9seWRscCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJuaWd2cmN5enhnaTZnNjUzYXl5bnMyYnpqYmx4M25yN3R4bXVnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oS5fDVGDnr68rTVQLV/giphy.gif" width="100"/>
 </div>
