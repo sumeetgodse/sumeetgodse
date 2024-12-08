@@ -2,13 +2,13 @@
 
 <!-- Social Links -->
 <div id="badges">
-  <a href="https://www.linkedin.com/in/sumeetgodse/">
+  <a href="https://www.linkedin.com/in/sumeetgodse/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/@sumeetgodse">
+  <a href="https://www.youtube.com/@sumeetgodse" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://www.instagram.com/sumeet_godse">
+  <a href="https://www.instagram.com/sumeet_godse" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-magenta?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
